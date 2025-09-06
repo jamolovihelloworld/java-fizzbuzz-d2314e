@@ -1,0 +1,1 @@
+public class Main { public static void main(String[] args){ for(int i=1;i<=20;i++){String o="";if(i%3==0)o+="Fizz";if(i%5==0)o+="Buzz";System.out.println(o.isEmpty()?i:o);} }}
